@@ -1,0 +1,15 @@
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de dados locais e visualizações geradas
+*.html
+*.gdm
+*.json
+
+# Configurações locais de IDE
+.vscode/
+.idea/
+.DS_Store
